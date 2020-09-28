@@ -30,6 +30,7 @@
 <div id="dvTable" class="w3-container" style = "width:1800px;height:900px; background-color:black;padding:5px">
             <img src="ele/CarFrontViewBase.png" style ="max-height:500px;max-width:300px" />
             <img src="ele/CBV-C720.png" style ="max-height:500px;max-width:300px" />
+
             <asp:Image ID="Image1" runat="server" ImageUrl="~/ele/H.png" style ="z-index:1;left:5px;top:57px;position:absolute; max-height:500px;max-width:300px"/>
             <%--<asp:Image ID="Image1" runat="server" ImageUrl="~/ele/CarFrontViewBase.png" style ="z-index:1;left:904px;top:367px;position:absolute; max-height:500px;max-width:300px"/>--%>
             <%--<asp:Image ID="Image2" runat="server" ImageUrl="~/ele/CBV-C720.png" style ="z-index:1;left:1004px;top:367px;position:absolute; max-height:500px;max-width:300px" />--%>
